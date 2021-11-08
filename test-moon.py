@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-import lib.pa_moon as PMO
+import practical_astronomy.moon as PMO
 import unittest as UT
 
 class test_moon_position_and_info(UT.TestCase):

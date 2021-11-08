@@ -1,5 +1,5 @@
 import math
-from . import pa_macro as PM
+from . import macros as PM
 
 def approximate_position_of_sun(lct_hours, lct_minutes, lct_seconds, local_day, local_month, local_year, is_daylight_saving, zone_correction):
 	"""

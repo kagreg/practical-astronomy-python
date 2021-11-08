@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-import lib.pa_eclipses as PE
+import practical_astronomy.eclipses as PE
 import unittest as UT
 
 class test_lunar_eclipse(UT.TestCase):

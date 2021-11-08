@@ -1,5 +1,5 @@
 import math
-from . import pa_macro as PM
+from . import macros as PM
 
 def lunar_eclipse_occurrence(local_date_day,local_date_month,local_date_year,is_daylight_saving,zone_correction_hours):
 	"""

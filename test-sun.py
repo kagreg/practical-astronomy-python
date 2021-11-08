@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-import lib.pa_sun as PS
+import practical_astronomy.sun as PS
 import unittest as UT
 
 class test_approximate_position_of_sun(UT.TestCase):

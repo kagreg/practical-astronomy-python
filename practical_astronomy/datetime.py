@@ -1,6 +1,6 @@
 import math
-from . import pa_util as PU
-from . import pa_macro as PM
+from . import util as PU
+from . import macros as PM
 
 def get_date_of_easter(year):
 	"""

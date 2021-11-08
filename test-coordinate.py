@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-import lib.pa_coordinate as PC
+import practical_astronomy.coordinate as PC
 import unittest as UT
 
 def get_decimal_degrees(degrees,minutes,seconds):

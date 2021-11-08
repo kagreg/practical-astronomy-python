@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
-import lib.pa_comet as PC
-import lib.pa_planet as PP
-import lib.pa_binary as PB
+import practical_astronomy.comet as PC
+import practical_astronomy.planet as PP
+import practical_astronomy.binary as PB
 import unittest as UT
 
 class test_position_of_planet(UT.TestCase):

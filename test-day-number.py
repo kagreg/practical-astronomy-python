@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 import unittest as UT
-import lib.pa_datetime as PD
+import practical_astronomy.datetime as PD
 
 def test_gen(month,day,year):
 	dayNumber = PD.civil_date_to_day_number(month,day,year)

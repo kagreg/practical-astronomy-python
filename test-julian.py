@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-import lib.pa_datetime as PD
+import practical_astronomy.datetime as PD
 import unittest as UT
 
 def get_julian_date(month,day,year):

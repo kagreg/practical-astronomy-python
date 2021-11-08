@@ -1,5 +1,5 @@
 import math
-from . import pa_macro as PM
+from . import macros as PM
 
 def angle_to_decimal_degrees(degrees, minutes, seconds):
 	""" Convert an Angle (degrees, minutes, and seconds) to Decimal Degrees """

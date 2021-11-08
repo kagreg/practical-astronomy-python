@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 import unittest as UT
-import lib.pa_datetime as DOE
+import practical_astronomy.datetime as DOE
 
 def test_input(isVerbose):
 	inputYear = 2009

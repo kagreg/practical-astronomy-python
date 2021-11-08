@@ -1,6 +1,6 @@
 import math
-from . import pa_macro as PM
-from . import pa_binary_data as PBD
+from . import macros as PM
+from . import binary_data as PBD
 
 def binary_star_orbit(greenwich_date_day, greenwich_date_month, greenwich_date_year, binary_name):
 	"""
